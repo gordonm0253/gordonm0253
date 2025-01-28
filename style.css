@@ -1,0 +1,205 @@
+body {
+    min-height: 100vh;
+    background: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    position: relative;
+    font-size: 18px;
+    color: white;
+    margin-left: 40px;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.bio {
+    position: relative;
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+.navbar a::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: white;
+    transition: .3s;
+}
+
+.navbar a:hover::before { 
+    width: 100%;
+}
+
+.lrSection {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.bioPic {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bioHeading {
+    text-align: center;
+    color: white;
+    font-size: 4vw;
+    margin: 3%;
+}
+
+.bioText {
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.left {
+    width: 35%;
+    margin-left: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+  
+.right {
+    width: 35%;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.link {
+    color: coral;
+}
+
+#contactText {
+    color: white;
+    font-size: large;
+}
+
+.headingTitle {
+    color: white;
+    font-size: 2.5vw;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.contentSection {
+    margin-left: 15%;
+    margin-right: 15%;
+    align-items: center;
+}
+
+.bottomContainer {
+    position: relative;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 50px;
+}
+  
+.bottomContainer p {
+    color: white;
+    margin: 0;
+    padding: 7px;
+}
+  
+.contactHeading {
+    text-align: center;
+    color: white;
+    font-size: 2.5vw;
+    margin: 3%;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.card {
+    width: 325px;
+    padding: 1%;
+    border: 4px solid white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.cardText {
+    padding: 8px;
+}
+
+.cardText h3 {
+    font-size: 28px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.cardText p {
+    line-height: 1.3;
+    color: white;
+}
+
+.cardText .btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: coral;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 16px;
+    color: white;
+}
