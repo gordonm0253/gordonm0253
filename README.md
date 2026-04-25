@@ -10,8 +10,6 @@ You can reach me at [gam278@cornell.edu](mailto:gam278@cornell.edu) or [connect]
 
 <h2> 🚀 &nbsp;Some Languages and Tools I Have Used and Learned</h2>
 <p align="left">
-  
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
@@ -32,5 +30,4 @@ You can reach me at [gam278@cornell.edu](mailto:gam278@cornell.edu) or [connect]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ros" width="45" height="45"/>
-</p>
 </p>
