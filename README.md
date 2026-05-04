@@ -2,7 +2,7 @@
 
 I'm a student at Cornell University studying math and computer science. I'm mainly interested in machine learning, theory of computation, and computational biology. More broadly, I like designing algorithms and writing software that turns theory into something useful. Outside of classes, I am a ...
 
-- Researcher at the [Wei Lab](https://aprilweilab.github.io/), where I work on building scalable pipelines for large-scale genomic analysis and local ancestry inference
+- Researcher at the [Wei Lab](https://aprilweilab.github.io/), where I build scalable pipelines for large-scale genomic analysis and local ancestry inference
 - Software subteam member of **Cornell Nexus** - a student-led project team developing an autonomous beach cleaning robot
 - Teaching Assistant for **CS 4820** – Analysis of Algorithms (previously served as a TA for CS 2800: Discrete Mathematics)
 
