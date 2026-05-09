@@ -6,7 +6,7 @@ I'm a student at Cornell University studying math and computer science. I'm main
 - Software subteam member of **Cornell Nexus** - a student-led project team developing an autonomous beach cleaning robot
 - Teaching Assistant for **CS 4820** – Analysis of Algorithms (previously served as a TA for CS 2800: Discrete Mathematics)
 
-You can reach me at [gam278@cornell.edu](mailto:gam278@cornell.edu) or [connect](https://www.linkedin.com/in/gordon-mei/) with me on LinkedIn!
+You can reach me at [gam278@cornell.edu](mailto:gam278@cornell.edu), check out my portfolio [website](https://gordonm0253.github.io), or [connect](https://www.linkedin.com/in/gordon-mei/) with me on LinkedIn!
 
 <h2>🚀 &nbsp;Some Languages and Tools I Have Used and Learned</h2>
 <table>
