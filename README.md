@@ -3,9 +3,9 @@
 I'm a student at Cornell University studying math and computer science. I'm mainly interested in software engineering, machine learning, theory of computation, and computational biology. More broadly, I like designing algorithms and writing software that turns theory into something useful. Outside of classes, I am a ...
 
 - Researcher under Prof. [Nick Spooner](https://spooner.cc/), working on recursive composition of proof systems and its applications to incrementally verifiable computation (IVC) and proof carrying data (PCD).
-- Researcher at the [Wei Lab](https://aprilweilab.github.io/), where I build scalable pipelines for large-scale genomic analysis and local ancestry inference
-- Software subteam member of [**Cornell Nexus**](https://cornellnexus.com/) - a student-led project team developing an autonomous beach cleaning robot
-- Teaching Assistant for [**CS 4820**](https://courses.cs.cornell.edu/cs4820/2026sp/) – Analysis of Algorithms (previously served as a TA for CS 2800: Discrete Mathematics)
+- Researcher at the [Wei Lab](https://aprilweilab.github.io/), where I build scalable pipelines for large-scale genomic analysis and local ancestry inference.
+- Software subteam member of [**Cornell Nexus**](https://cornellnexus.com/) - a student-led project team developing an autonomous beach cleaning robot.
+- Teaching Assistant for [**CS 4820**](https://courses.cs.cornell.edu/cs4820/2026sp/) – Analysis of Algorithms (previously served as a TA for CS 2800: Discrete Mathematics).
 
 You can reach me at [gam278@cornell.edu](mailto:gam278@cornell.edu), check out my [portfolio](https://gordonm0253.github.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/gordon-mei/)!
 
